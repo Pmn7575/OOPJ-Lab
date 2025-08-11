@@ -17,7 +17,8 @@ System.out.println(" Roll no "+roll_no);
 }
 public static void main(String args[])
 {
-Thiskey tk = new Thiskey( 9322315962,"Najeem Pathan",18)
+Thiskey tk = new Thiskey( 8788130738,"Parth Nandre",06)
 tk.display();
 }
+
 }
