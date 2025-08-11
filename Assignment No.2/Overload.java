@@ -5,9 +5,9 @@ class Overload {
    int marks;
 
    public Overload() {
-      this.roll_no = 18;
-      this.name = "Najeem Pathan";
-      this.marks = 85;
+      this.roll_no = 06;
+      this.name = "Parth Nandre";
+      this.marks = 89;
       System.out.println("Roll no: " + this.roll_no + ", Name: " + this.name + ", Marks: " + this.marks);
    }
 
@@ -32,7 +32,8 @@ class Overload {
    public static void main(String[] var0) {
       new Overload();
       new Overload(20);
-      new Overload(21, "Parth");
+      new Overload(21, "Sarang");
       new Overload(4, "Krishnaraj", 51);
    }
 }
+
