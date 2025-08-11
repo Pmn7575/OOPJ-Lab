@@ -5,9 +5,9 @@ String name;
 int marks;
 public Student21()
 {
-roll=121;
-name="Sudarshan";
-marks=85;
+roll=06;
+name="Parth Nandre";
+marks=82;
 System.out.println("Roll NO:"+roll+" Name:"+name+" Marks:"+marks);
 }
 public Student21(int r)
@@ -36,3 +36,4 @@ Student21 a3=new Student21(3,"SAI");
 Student21 a4=new Student21(6,"PARTH",75);
 }
 }
+
